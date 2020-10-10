@@ -1,0 +1,60 @@
+{
+  "api": [
+    {
+      "data": [
+      ],
+      "id": "logs"
+    },
+    {
+      "data": {
+        "rico": 0,
+        "walker": 0,
+        "thor": 0,
+        "tong": 0,
+        "yoyo": 0,
+        "sophia": 0,
+        "blake": 0,
+        "silvia": 0,
+        "waylon": 0,
+        "max": 0,
+        "pisco": 0,
+        "nina": 0
+      },
+      "id": "scores"
+    },
+    {
+      "data": {
+        "rico": 1,
+        "walker": 1,
+        "thor": 1,
+        "tong": 1,
+        "yoyo": 1,
+        "sophia": 1,
+        "blake": 1,
+        "silvia": 1,
+        "waylon": 1,
+        "max": 1,
+        "pisco": 1,
+        "nina": 1
+      },
+      "id": "score-bases"
+    },
+    {
+      "data": {
+        "rico": "normal",
+        "walker": "normal",
+        "thor": "normal",
+        "tong": "normal",
+        "yoyo": "normal",
+        "sophia": "normal",
+        "blake": "normal",
+        "silvia": "normal",
+        "waylon": "normal",
+        "max": "normal",
+        "pisco": "normal",
+        "nina": "normal"
+      },
+      "id": "score-status"
+    }
+  ]
+}
